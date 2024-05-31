@@ -19,6 +19,12 @@ export default function Home() {
                         </DataList.Value>
                     </DataList.Item>
                     <DataList.Item>
+                        <DataList.Label minWidth="88px">Github</DataList.Label>
+                        <DataList.Value>
+                            <Link target="_blank" href="https://github.com/anhkhuong975/radix-ui-dashboard-template">https://github.com/anhkhuong975/radix-ui-dashboard-template</Link>
+                        </DataList.Value>
+                    </DataList.Item>
+                    <DataList.Item>
                         <DataList.Label minWidth="88px">Theme component</DataList.Label>
                         <DataList.Value>
                             <Link target="_blank" href="https://www.radix-ui.com/">RADIX UI</Link>
