@@ -1,12 +1,12 @@
 import React from "react";
-import {Container, Flex, Text} from "@radix-ui/themes";
+import {Container, Flex, Link, Text} from "@radix-ui/themes";
 
 const Footer = () => {
     return (
         <>
             <Container p="3" className="bg-white" my="auto">
                 <Flex align="center">
-                    <Text>@khuong-pham.vercel.app</Text>
+                    <Link target='_blank' href='https://khuong-pham.vercel.app/'>khuong-pham.vercel.app</Link>
                 </Flex>
             </Container>
         </>

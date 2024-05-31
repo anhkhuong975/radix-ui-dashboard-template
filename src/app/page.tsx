@@ -3,7 +3,7 @@ import {Blockquote, Card, Code, Container, DataList, Heading, Link} from "@radix
 export default function Home() {
     return (
         <Container>
-            <Heading className='my-3'>DASHBOARD TEMPLATE</Heading>
+            <Heading className='my-3'>Radix UI Dashboard Template</Heading>
             <Card className='space-y-6'>
                 <Blockquote>
                     <Code>This is a simple template with: Dashboard layout, menu sidebar. This was included RadixUI
